@@ -68,7 +68,7 @@ Este tipo de métrica tem o papel de avaliar a estrutura de uma determinada rede
 * Cliques: a partir dos cliques pode-se descobrir as chamadas “panelinhas”, ou subgrupos altamente coesos em uma rede social, estes subgrupos cooperam estreitamente entre si e se mostram intimamente conectados;
 * Comunidades: é uma propriedade comum em redes sociais, que representa “ciclos de amigos comuns”, onde todo membro conhece todos os outros membros, é natural que indivíduos que partilham dos mesmos interesses, ou tenham alguma similaridade, formem grupos ou comunidades, em redes complexas também chamados de clusters, onde o alto grau de conexão entre os nós é decisivo para a formação dos grupos;
       
-*Bibliografia: 
+*Bibliografia:* 
 
 1. ARIF, T. The mathematics of social network analysis: metrics for academic
 social networks. Int. J. Comput. Appl. Technol. Res. 4 (12), 889–893, 2015
